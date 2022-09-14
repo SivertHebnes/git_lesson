@@ -18,3 +18,6 @@ y <- rnorm(300)
 
 # Crazy stuff
 >>>>>>> crazy-idea
+
+
+test test
